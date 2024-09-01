@@ -1,0 +1,14 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\susmi\OneDrive\Desktop\Project\2 Stage OTA\two satge opamp.asc
+Start Time: Mon Aug 26 01:09:20 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node NC_01 is floating.
+WARNING: Node NC_02 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.142 seconds.
+
